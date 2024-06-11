@@ -51,7 +51,7 @@ html,body{
 }
 
 
-}#nav-buttons {
+#nav-buttons {
     display: flex;
     align-items: center;
     gap: 20px; /* Added gap for spacing between buttons */
